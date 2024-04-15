@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
+import NavBar from "../components/NavBar";
 
 function Home() {
   return (
     <>
       <header>
-        {/* What component should go here? */}
+        working home
+        <NavBar/>
       </header>
       <main>
         {/* Info goes here! */}
